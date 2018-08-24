@@ -2519,3 +2519,108 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-08-24 13:18:42.318
 !MESSAGE The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:12.540
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:12.579
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-08-24 13:21:12.637
+!MESSAGE Error setting focus to : org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl Git Repositories
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:12.662
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:12.675
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:13.819
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2018-08-24 13:21:13.950
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:14.816
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:14.869
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-08-24 13:21:14.934
+!MESSAGE Error setting focus to : org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl Git Repositories
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:14.935
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:16.290
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2018-08-24 13:21:16.652
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:18.216
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:21:18.249
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2018-08-24 13:21:52.884
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:22:37.764
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:22:37.809
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2018-08-24 13:22:37.870
+!MESSAGE Error setting focus to : org.eclipse.e4.ui.model.application.ui.basic.impl.PartImpl Git Repositories
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:22:37.878
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui.workbench 4 2 2018-08-24 13:22:37.887
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+java.lang.NullPointerException
