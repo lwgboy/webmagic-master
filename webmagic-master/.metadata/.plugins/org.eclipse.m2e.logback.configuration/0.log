@@ -1688,3 +1688,57 @@ org.eclipse.core.runtime.CoreException: Launch configuration News163 references 
 2018-08-24 11:39:31,996 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
 2018-08-24 11:39:31,997 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-24 11:39:31,997 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:36,198 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-job:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-job\pom.xml.
+2018-08-24 13:18:36,412 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-job/src/main/java
+2018-08-24 13:18:36,413 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-job/src/main/resources
+2018-08-24 13:18:36,421 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-job/src/test/java
+2018-08-24 13:18:36,421 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-job/src/test/resources
+2018-08-24 13:18:37,744 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-job:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-job\pom.xml.
+2018-08-24 13:18:37,913 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:37,913 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:37,914 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:37,915 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:38,041 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 13:18:38,162 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 13:18:38,650 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 13:18:38,906 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 13:18:39,906 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 13:18:40,542 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 13:18:40,640 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 13:18:40,921 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 13:18:41,155 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-job:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-job\pom.xml.
+2018-08-24 13:18:42,212 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-job:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-job\pom.xml.
+2018-08-24 13:18:42,318 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 13:18:42,466 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,467 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:42,467 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,467 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:42,826 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,826 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:42,827 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,827 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:42,839 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,839 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:42,840 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:42,840 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:43,197 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,197 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:43,197 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,198 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 13:18:43,552 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,552 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 13:18:43,553 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,553 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 13:18:43,760 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,761 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:43,762 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:43,762 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:44,828 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 13:18:44,829 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:44,829 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 13:18:44,830 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:44,830 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 13:18:45,591 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:45,591 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 13:18:45,591 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 13:18:45,591 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

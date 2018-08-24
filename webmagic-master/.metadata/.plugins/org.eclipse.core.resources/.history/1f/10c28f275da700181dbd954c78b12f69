@@ -56,7 +56,6 @@
         <module>webmagic-samples</module>
         <module>webmagic-Lyrical</module>
         <module>webmagic-shop</module>
-        <module>webmagic-job</module>
     </modules>
 
     <dependencyManagement>
