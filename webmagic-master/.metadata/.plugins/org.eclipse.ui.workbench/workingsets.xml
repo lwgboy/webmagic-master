@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534903969789_0" label="webmagic-parent" name="webmagic-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-scripts" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-samples" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-shop" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-selenium" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-extension" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-saxon" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-Lyrical" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-master" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/webmagic-core" type="4"/>
+</workingSet>
+</workingSetManager>
