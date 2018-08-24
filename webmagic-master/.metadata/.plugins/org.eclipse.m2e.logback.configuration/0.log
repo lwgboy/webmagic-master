@@ -822,3 +822,869 @@
 2018-08-23 11:44:50,185 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-08-23 11:44:50,186 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-08-23 11:44:50,187 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:40:39,681 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:40:41,013 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:41,052 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:40:41,055 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:41,056 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:40:41,160 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:40:41,951 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:40:42,780 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:40:43,146 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:40:43,418 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:40:43,705 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:40:44,032 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:40:45,288 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:40:46,068 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:40:47,138 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:40:47,541 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:40:47,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:47,816 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 10:40:47,828 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:47,830 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 10:40:50,256 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:40:50,739 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:50,743 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-24 10:40:50,804 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:50,804 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-08-24 10:40:51,633 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:40:52,299 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:52,300 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 10:40:52,332 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:52,333 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 10:40:52,659 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:40:53,194 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:53,194 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 10:40:53,195 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:53,195 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 10:40:53,716 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:40:55,629 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 10:40:55,630 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:55,631 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-08-24 10:40:55,670 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:55,671 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 10:40:56,520 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:40:57,489 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:57,489 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 10:40:57,490 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:57,490 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 10:40:58,311 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:40:58,571 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:58,571 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:40:58,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:40:58,573 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:40:59,266 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:40:59,429 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:40:59,787 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:41:00,067 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:41:00,328 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:41:00,576 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:41:00,860 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:41:01,731 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:41:02,348 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ D:\useworkspace\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:41:03,252 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:03,392 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:03,395 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:03,396 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:03,658 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:41:03,825 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:03,825 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:03,825 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:03,825 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:04,679 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:04,679 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:04,680 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:04,680 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:05,026 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:05,027 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:05,028 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:05,028 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 10:41:05,812 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:05,812 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 10:41:05,813 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:05,813 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 10:41:07,350 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 10:41:07,351 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:07,351 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:07,353 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:07,353 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 10:41:08,240 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:08,241 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\useworkspace\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 10:41:08,241 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:08,241 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:08,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:08,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:41:08,258 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:41:08,258 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:44:19,227 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,229 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,233 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,238 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,240 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,243 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,247 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,248 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:44:19,256 [Worker-0] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 10:49:38,911 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 10:49:39,141 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:49:39,539 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:49:39,835 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:49:40,094 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:49:41,107 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:49:41,805 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:49:42,080 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:49:42,335 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:49:42,465 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:49:43,684 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/main/java
+2018-08-24 10:49:43,685 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/test/java
+2018-08-24 10:49:44,008 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-Lyrical/src/main/java
+2018-08-24 10:49:44,008 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-Lyrical/src/test/java
+2018-08-24 10:49:44,121 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-core/src/main/java
+2018-08-24 10:49:44,122 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-core/src/main/resources
+2018-08-24 10:49:44,137 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-core/src/test/java
+2018-08-24 10:49:44,137 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-core/src/test/resources
+2018-08-24 10:49:44,203 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:49:44,378 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:49:44,415 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-extension/src/main/java
+2018-08-24 10:49:44,415 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-extension/src/main/resources
+2018-08-24 10:49:44,423 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-extension/src/test/java
+2018-08-24 10:49:44,424 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-extension/src/test/resources
+2018-08-24 10:49:44,619 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 10:49:44,637 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-scripts/src/main/java
+2018-08-24 10:49:44,643 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-scripts/src/main/kotlin
+2018-08-24 10:49:44,643 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-scripts/src/main/resources
+2018-08-24 10:49:44,652 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-scripts/src/test/java
+2018-08-24 10:49:44,749 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:49:45,230 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-selenium/src/main/java
+2018-08-24 10:49:45,235 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-selenium/src/test/java
+2018-08-24 10:49:45,235 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-selenium/src/test/resources
+2018-08-24 10:49:45,360 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:49:45,584 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-samples/src/main/java
+2018-08-24 10:49:45,584 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /webmagic-samples/src/main/resources
+2018-08-24 10:49:45,591 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-samples/src/test/java
+2018-08-24 10:49:45,699 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 10:49:45,788 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-saxon/src/main/java
+2018-08-24 10:49:45,793 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-saxon/src/test/java
+2018-08-24 10:49:45,840 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:49:45,967 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 9 project(s) in 7 sec
+2018-08-24 10:49:46,183 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:49:47,469 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:49:47,648 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:49:49,623 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:49:50,784 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:50,784 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\src\main\resources
+2018-08-24 10:49:50,785 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:50,785 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\src\test\resources
+2018-08-24 10:49:51,391 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:49:51,535 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:49:51,598 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:49:51,946 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:49:52,148 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:49:52,520 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:52,520 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 10:49:52,524 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:52,525 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 10:49:53,153 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:49:53,754 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:53,755 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-24 10:49:53,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:53,779 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-08-24 10:49:54,194 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:49:54,778 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:54,778 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 10:49:54,783 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:54,783 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 10:49:54,969 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:49:55,536 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:55,537 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 10:49:55,537 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:55,537 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 10:49:55,788 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:49:57,226 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 10:49:57,227 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:57,227 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-08-24 10:49:57,254 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:57,254 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 10:49:57,516 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:49:58,653 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:58,653 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 10:49:58,654 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:58,654 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 10:49:58,806 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:49:58,964 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:58,964 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 10:49:58,964 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:49:58,964 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 10:49:59,618 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:49:59,786 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:50:00,155 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:50:00,459 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:50:00,743 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 10:50:00,876 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:50:01,144 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:50:01,407 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:50:02,462 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:50:03,128 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:50:03,266 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-Lyrical:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\pom.xml.
+2018-08-24 10:50:03,426 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 10:50:03,438 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:50:03,729 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 10:50:04,003 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 10:50:04,231 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 10:50:04,545 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 10:50:05,349 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 10:50:05,758 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 10:50:06,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:06,686 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\src\main\resources
+2018-08-24 10:50:06,687 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:06,687 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-Lyrical\src\test\resources
+2018-08-24 10:50:07,098 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 10:50:07,276 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:07,276 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:07,277 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:07,277 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:07,663 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:07,663 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:07,664 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:07,665 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:08,657 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:08,657 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:08,658 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:08,658 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 10:50:09,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:09,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 10:50:09,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:09,077 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 10:50:10,515 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 10:50:10,516 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:10,516 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:10,517 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:10,517 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 10:50:11,650 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:11,650 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 10:50:11,651 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:11,651 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 10:50:11,667 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:11,668 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 10:50:11,668 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 10:50:11,668 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:00:48,626 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:00:48,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:00:48,671 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:00:48,672 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:00:48,672 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:00:48,767 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:00:48,767 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:00:48,767 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:00:48,767 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:01:41,829 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:01:41,829 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:01:41,830 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:01:41,830 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:01:59,455 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:01:59,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:01:59,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:01:59,456 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:02:59,532 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-24 11:02:59,682 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:02:59,841 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/main/java
+2018-08-24 11:02:59,841 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/test/java
+2018-08-24 11:03:00,153 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-08-24 11:03:00,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:03:00,284 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:03:00,285 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:03:00,285 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:03:07,230 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:03:07,230 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:03:07,230 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:03:07,230 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:29:52,095 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:29:52,254 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:29:52,254 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:29:52,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:29:52,255 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:29:57,896 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-08-24 11:29:58,032 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:29:58,073 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/main/java
+2018-08-24 11:29:58,074 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webmagic-shop/src/test/java
+2018-08-24 11:29:58,438 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:29:58,484 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-08-24 11:29:58,615 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:29:58,615 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:29:58,616 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:29:58,616 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:38:33,073 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,074 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,079 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration AlexanderMcqueenGoodsProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,080 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,081 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,085 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration DiaoyuwengProcessor references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,087 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,088 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:38:33,092 [Worker-23] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration News163 references non-existing project webmagic-samples.
+org.eclipse.core.runtime.CoreException: Launch configuration News163 references non-existing project webmagic-samples.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1406) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1281) ~[org.eclipse.jdt.launching_3.7.100.v20140428-1912.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2162) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.9.0.v20140521-1435.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:747) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:876) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:104) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:166) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:142) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:96) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1348) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:87) [org.eclipse.m2e.core_1.5.0.20140606-0033.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54) [org.eclipse.core.jobs_3.6.0.v20140424-0053.jar:na]
+2018-08-24 11:39:00,884 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:01,499 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:02,436 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:39:02,572 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 11:39:02,845 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 11:39:03,357 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:03,715 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:03,715 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 11:39:03,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:03,721 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 11:39:04,250 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:04,922 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:05,507 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:05,633 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:05,637 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 11:39:05,641 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:05,642 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 11:39:05,787 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 11:39:06,510 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:06,510 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-24 11:39:06,517 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:06,518 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-08-24 11:39:07,050 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:07,455 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:07,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:07,763 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2018-08-24 11:39:07,770 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:07,771 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-08-24 11:39:07,842 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 11:39:07,980 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 11:39:08,528 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:08,785 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 11:39:09,595 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:09,673 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:09,873 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:09,873 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:09,874 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:09,874 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:10,268 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:10,368 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:10,368 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:10,370 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:10,370 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:10,767 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:11,426 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:11,426 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 11:39:11,431 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:11,431 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 11:39:12,279 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:12,324 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:12,325 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-08-24 11:39:12,332 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:12,332 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 11:39:12,531 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 11:39:13,152 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:13,152 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 11:39:13,152 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:13,152 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 11:39:13,543 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:14,855 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 11:39:14,855 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:14,856 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-08-24 11:39:14,879 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:14,880 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 11:39:15,837 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:15,837 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 11:39:15,838 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:15,838 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 11:39:15,915 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:16,559 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:17,361 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 11:39:17,362 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:17,364 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2018-08-24 11:39:17,393 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:17,393 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 11:39:17,655 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 11:39:18,768 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:18,768 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 11:39:18,768 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:18,769 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 11:39:19,231 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:19,752 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:20,437 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:20,437 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 11:39:20,439 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:20,440 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-08-24 11:39:20,554 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:39:20,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:20,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\main\resources
+2018-08-24 11:39:20,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:20,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\src\test\resources
+2018-08-24 11:39:21,837 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:22,389 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:23,393 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:39:23,535 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 11:39:24,236 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 11:39:24,494 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 11:39:24,776 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 11:39:24,876 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:25,146 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: us.codecraft:webmagic-parent:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\pom.xml.
+2018-08-24 11:39:25,260 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-samples:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\pom.xml.
+2018-08-24 11:39:25,511 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-scripts:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\pom.xml.
+2018-08-24 11:39:25,952 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-shop:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-shop\pom.xml.
+2018-08-24 11:39:26,080 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-selenium:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\pom.xml.
+2018-08-24 11:39:26,462 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-extension:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-extension\pom.xml.
+2018-08-24 11:39:26,700 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-saxon:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\pom.xml.
+2018-08-24 11:39:26,926 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: us.codecraft:webmagic-core:0.7.3 @ E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-core\pom.xml.
+2018-08-24 11:39:27,058 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:28,699 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2018-08-24 11:39:28,864 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:28,864 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:28,864 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:28,865 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:29,226 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,226 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:29,226 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,226 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:29,613 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,613 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:29,614 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,614 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-samples\src\test\resources
+2018-08-24 11:39:29,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\main\resources
+2018-08-24 11:39:29,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:29,991 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-saxon\src\test\resources
+2018-08-24 11:39:31,146 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\main\kotlin added.
+2018-08-24 11:39:31,147 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:31,147 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-08-24 11:39:31,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:31,148 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-scripts\src\test\resources
+2018-08-24 11:39:31,996 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:31,996 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\github\java\webmagic-master\webmagic-master\webmagic-master\webmagic-selenium\src\main\resources
+2018-08-24 11:39:31,997 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-24 11:39:31,997 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
